@@ -7,7 +7,7 @@ Because it's made using Bootstrap it has all the good features of bootstrap, lik
 
 To use this Jekyll theme, first clone the repo 
 
-    git clone https://github.com/rukshn/jekyllboot
+    git clone https://github.com/rukshn/jekyllboot.git
 
 After that change the settings of `_config.yml` file, change blog name description, url twitter username, and everything to your liking.
 
@@ -37,4 +37,4 @@ That's it. Happy blogging, don't forget to star fork and make changes. License [
 
   [1]: http://getbootstrap.com
   [2]: http://hi.rukshanr.com
-  [3]: LICENSE.md
+  [3]: http://choosealicense.com/licenses/mit
