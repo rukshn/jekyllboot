@@ -1,0 +1,13 @@
+
+markdown: redcarpet
+pygments: true
+
+name: "Blog Name"
+tagline : "Anything less than imortality is a complete waste of time"
+description: "Blog Description"
+paginate: 10
+permalink: pretty
+url: "Blog URL"
+author: "Author"
+twitter: "twitter username"
+
